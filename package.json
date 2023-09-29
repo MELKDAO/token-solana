@@ -1,0 +1,17 @@
+{
+  "name": "token-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.5",
+    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.5"
+  }
+}
